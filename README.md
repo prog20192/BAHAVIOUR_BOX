@@ -1,4 +1,4 @@
-# BAHAVIOUR_BOX
+# BEHAVIOUR_BOX
 
 Este repositório foi criado para o desenvolvimento de um algoritimo para ser implentado em uma caixa comportamental. 
 O algorítimo dever ser capaz de identificar algun sparâmetros, a citar: situação de habituação, distância da barra, tocar na barra, 
