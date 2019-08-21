@@ -7,6 +7,9 @@ discriminação de som. E dessa maneira, auxiliar o pesquisador no desempenho do
 Este projeto está sendo desenvolvido por:
 
 Tássia Nunes
+
 Tâmara Nunes
+
 Flávia Freira
+
 Johseph Paballo
