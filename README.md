@@ -2,7 +2,7 @@
  
  <hr size=8 width=50% align=right>
 
-Este repositório foi criado para o desenvolvimento de um algoritmo para ser implentado em uma caixa comportamental. O algoritmo dever ser capaz de identificar alguns parâmetros, a citar: situação de habituação, distância da barra, tocar na barra, discriminação de som. E dessa maneira, auxiliar o pesquisador no desempenho dos testes comportamentais. Este projeto está sendo desenvolvido por alunos do mestrado do Instituto Internacional de Neurociências Edmond e Lily Safra (IINELS).
+Este repositório foi criado para o desenvolvimento de um algoritmo para ser implementado em uma caixa comportamental. O algoritmo dever ser capaz de identificar alguns parâmetros, a citar: situação de habituação, distância da barra, tocar na barra, discriminação de som. E dessa maneira, auxiliar o pesquisador no desempenho dos testes comportamentais. Este projeto está sendo desenvolvido por alunos do mestrado do Instituto Internacional de Neurociências Edmond e Lily Safra (IINELS).
 
 <b> ● Linguagem utilizada: </b> Python <img width=30 height=25 src="https://images.vexels.com/media/users/3/166477/isolated/preview/9bb722f0e85ddbc1ce0f064534fd2311---cone-da-linguagem-de-programa----o-python-by-vexels.png" align ="middle">
 
