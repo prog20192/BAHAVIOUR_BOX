@@ -16,3 +16,7 @@ if habituacao:
         print('Foi liberado 0,5 ml de recompensa!')
         print('O animal passou para etapa 2')
         print('\nETAPA 2: TOCAR NA BARRA')
+        barra = int(input('Quantas vezes tocou na barra: '))
+        if barra >= 20:
+            print('O animal passou para a etapa 3!')
+            print('\nETAPA 3: Discriminação do som e barra')
