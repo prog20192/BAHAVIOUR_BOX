@@ -1,7 +1,7 @@
 ##Behavior_Box 1.0 - Disciplina de Programação - Mestrado de Neuroengenharia - IIN-ELS.
 
 print('-='*10)
-print('BAHAVIOUR BOX')
+print('BEHAVIOR BOX')
 print('-='*10,'\n')
 print('''Suas opções:
 [ 0 ] Não habituado
