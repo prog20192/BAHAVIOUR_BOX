@@ -22,7 +22,7 @@ if habituacao:
         if barra >= 20:
             print('O animal passou para a etapa 3!')
             print('\nETAPA 3: Discriminação do som e barra')
-             print('Suas opções de som e barra: ')
+            print('Suas opções de som e barra: ')
             print('[ 1 ] Som 1: Phi')
             print('[ 2 ] Som 2: Trill')
             print('[ 3 ] Barra direita')
